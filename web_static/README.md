@@ -1,4 +1,5 @@
 AirBnB clone - Web static
+<<<<<<< HEAD
 Description
 Here I have built the front end of the web step by step I have used:
 
@@ -14,3 +15,5 @@ OS: Ubuntu 14.04 LTS
 Style guidelines: ./wc3validator.py [filename]
 Author
 Sharon okeke
+=======
+>>>>>>> 8f984e8bc64ff190baab0ef0a90cff0f3aa44787
